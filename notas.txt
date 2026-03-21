@@ -1,0 +1,18 @@
+- data
+    - external 
+    - processed
+        - brent_monthly.csv
+        - fuel_dataset.csv
+    - raw
+        - brent_prices_raw.csv
+- notebooks
+- outputs
+- scripts
+    - data_download.py
+- .env
+- .gitignore
+- environment.yml
+- LICENSE
+- notas.txt
+- README.md
+- requeriments.txt
