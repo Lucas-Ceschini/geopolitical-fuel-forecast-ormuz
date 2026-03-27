@@ -9,6 +9,7 @@
 - outputs
 - scripts
     - data_download.py
+    - data_preparation.py
 - .env
 - .gitignore
 - environment.yml
