@@ -1,5 +1,7 @@
 pandas 
-yfinancial
+yfinance
+matplotlib
+scipy
+scikit-learn
 numpy
-os
 dotenv
