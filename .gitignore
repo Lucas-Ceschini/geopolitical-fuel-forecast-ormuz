@@ -1,3 +1,4 @@
 .env
 .uv
 .venv
+.DS_Stores
