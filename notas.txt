@@ -6,14 +6,31 @@
     - raw
         - brent_prices_raw.csv
 - notebooks
+    - 01_EDA_fuel_prices.ipynb
+    - 02_Modeling_fuel_prices.ipynb
+    - 03_Model_Results_and_Scenarios.ipynb
 - outputs
 - scripts
-    - data_download.py
-    - data_preparation.py
+    - data_download.py 
+    - data_preparation.py 
+    - __init__.py
+    - model_forecast.py
+    - run_forecast.py
+    - __pycache__
+    - modeling
+        - __pycache__
+        - __init__.py
+        - config.py
+        - data.py
+        - econometrics.py 
+        - pipeline.py
 - .env
 - .gitignore
 - environment.yml
 - LICENSE
 - notas.txt
 - README.md
+- uv.lock
+- pyproject.toml
+- .python-version
 - requeriments.txt

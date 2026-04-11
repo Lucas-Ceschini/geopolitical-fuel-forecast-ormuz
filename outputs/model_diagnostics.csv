@@ -1,0 +1,5 @@
+metric,value
+Durbin-Watson,1.1813713479870422
+Jarque-Bera stat,126.53091357159293
+Jarque-Bera p-value,3.3431912605029655e-28
+"Corr(abs(residual), fitted)",-0.24932269227832982
